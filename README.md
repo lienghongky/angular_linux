@@ -102,6 +102,5 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: hongkypcx.hp@gmail.com</li>
-          
-        <li>By phone number: hongkypcx.hp@gmail.com</li>
-        </ul>
+        <li>By phone number: +85510949388</li>
+</ul>
